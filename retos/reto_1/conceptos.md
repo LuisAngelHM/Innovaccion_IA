@@ -12,7 +12,7 @@
 
   - **Escalamiento horizontal:** Implica el incremento de las capacidades paralelas, por ejemplo, añadiendo más máquinas virtuales.
 
-  - **Eslasticidad:** Es posible configurar a las aplicaciones de manera auto-escalable, así, éstas serás capaces configurarse para adaptarse a sus necesidades.
+  - **Eslasticidad:** Es posible configurar a las aplicaciones de manera auto-escalable, así, éstas serán capaces de configurarse para adaptarse a sus necesidades.
 
   - **Agilidad:** Es el despliegue y configuración ágil de nuevos recursos, a la misma velocidad que cambian los requerimientos de las aplicaciones.
 
@@ -26,6 +26,8 @@
 
   - **Saas:** Software como Servicio, proporciona a los usuarios acceso a software que ya está instalado en el servidor. Por ejemplo Microsoft Office Online.
 
+  - **Informática sin servidor:** Permite a los desarrolladores crear aplicaciones rápidamente sin la necesidad de administrar la infraestructura. Las arquitecturas sin servidor son muy escalables y controladas por eventos y solo usan reursos cuando se produce una función.
+
 ## Modelos de Despliegue en la Nube
 
   - **Nube Privada:** Los recursos computacionales son utilizados de forma exclusiva por un negocio u organización. Una nube privada puede estar ubicada físicamente en centros de datos de una organización, pero también pueden ser hospedadas por un proveedor de servicio ajeno a la organización.
@@ -37,4 +39,27 @@
 ## Gastos
 
   - **Gastos de Capital (CapEx):** Hacen referencia a la inversión previa de dinero en infraestructura física, que se podrá deducir a lo largo del tiempo. El costo previo de CapEx tiene un valor que disminuye con el tiempo.
+
   - **Gastos Operativos (OpEx):** Son dinero que se invierte en servicios o productos y se factura al instante. Este gasto se puede deducir el mismo año que se produce. No hay ningún costo previo, ya que se paga por un servicio o producto a medida que se usa.
+
+## Computo en la nube
+
+  - **Hipervisor:** Emula todas las funciones de un equipo real y su cpu en una maquina virtual.
+
+  - **Orquestador:** El orquestador es el responsable de administrar los recursos de la nube, tambien administra las respuestas a las solicitudes de los usuarios.
+
+  - **Espacio aislado:** Es una suscripción temporal que permite crear recursos en Azure para la duración de un módulo de Learn.
+
+  - **Recursos:** Los recursos son instancias de los servicios que se pueden crear, por ejemplo, maquinas virtuales.
+
+  - **Grupos de recursos:** Son una combinación de recursos que actúan como un contenedor logico en el que se implementan recursos.
+
+  - **Suscripciones:** Agrupa las cuentas de usuario y los recursos que se han creado. En las suscripciones existen limites en los recursos que se pueden crear y usar.
+
+  - **Grupos de administración:** Ayudan a administrar el acceso, las directivas y el cumplimiento de varias suscripciones. Todas las suscripciones de un grupo de administración heredan automáticamente las condiciones que se aplican al grupo de administración. 
+
+  - **Ciclo de vida:**
+  La organización de los recursos por ciclo de vida puede ser util en entornos que no sean de producción, en los que puede probar un experimento y despues descartarlo. 
+
+  - **Azure Resource Managaer:** Es un servicio de implementación y administración para Azure. Proporciona una capa de administración que le permite crear, actualizar y eliminar los recursos de la cuenta de Azure. 
+  
