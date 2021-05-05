@@ -33,3 +33,8 @@
   - **Nube Pública:** Los servicios son ofrecidos a todo el público de internet que quiera comprarlos. Los recursos de la nube, como lo son los servidores y el almacenamiento, son administrados y operados por un proveedor de servicios de terceros, y entregado a través de internet.
 
   - **Nube Híbrida:** Este entorno de cómputo combina la nube privada y la nube pública, de modo que es posible compartir datos y aplicaciones entre ambas.
+
+## Gastos
+
+  - **Gastos de Capital (CapEx):** Hacen referencia a la inversión previa de dinero en infraestructura física, que se podrá deducir a lo largo del tiempo. El costo previo de CapEx tiene un valor que disminuye con el tiempo.
+  - **Gastos Operativos (OpEx):** Son dinero que se invierte en servicios o productos y se factura al instante. Este gasto se puede deducir el mismo año que se produce. No hay ningún costo previo, ya que se paga por un servicio o producto a medida que se usa.
