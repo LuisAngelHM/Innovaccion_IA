@@ -2,7 +2,7 @@
 
 ## Generales
 
-  - **Nube:** es un paradigma que permite ofrecer servicios de computación a través de una red, que usualmente es internet.
+  - **Nube:** Es un paradigma que permite ofrecer servicios de computación a través de una red, que usualmente es internet.
 
   - **Disponibilidad:** Dependiendo del acuerdo de nivel de servicio que se elija, las aplicaciones basadas en la nube pueden proveer una experiencia de usuario continua, sin caídas aparentes, incluso cuando algo haya salido mal.
 
@@ -28,8 +28,8 @@
 
 ## Modelos de Despliegue en la Nube
 
-  - **Nube Privada:**
+  - **Nube Privada:** Los recursos computacionales son utilizados de forma exclusiva por un negocio u organización. Una nube privada puede estar ubicada físicamente en centros de datos de una organización, pero también pueden ser hospedadas por un proveedor de servicio ajeno a la organización.
 
-  - **Nube Pública:**
+  - **Nube Pública:** Los servicios son ofrecidos a todo el público de internet que quiera comprarlos. Los recursos de la nube, como lo son los servidores y el almacenamiento, son administrados y operados por un proveedor de servicios de terceros, y entregado a través de internet.
 
-  - **Nube Híbrida:**
+  - **Nube Híbrida:** Este entorno de cómputo combina la nube privada y la nube pública, de modo que es posible compartir datos y aplicaciones entre ambas.
