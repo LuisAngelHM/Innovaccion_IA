@@ -63,3 +63,9 @@
 
   - **Azure Resource Managaer:** Es un servicio de implementación y administración para Azure. Proporciona una capa de administración que le permite crear, actualizar y eliminar los recursos de la cuenta de Azure. 
   
+  - **Zona de disponibilidad:** Son centros de datos separados fisicamente dentro de una region de Azure. Cada zona de disponibilidad tiene uno o varios centros de datos equipados con refrigeración, alimentación y redes independientes. Están conectadas con redes de fibra optica.
+
+  - **Servicios de zona:** El recurso está anclado a una zona específica
+
+  - **Servicios de redundancia de zona:** La plataforma se replica automáticamente entre zonas.
+  
