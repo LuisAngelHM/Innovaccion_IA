@@ -18,6 +18,10 @@
 
   - **Geo-distribución:** Se pueden desplegar datos y aplicaciones a centros de datos regionales alrededor del planeta, así se asegura que los clientes siempre obtengan el mejor rendimiento en su región.
 
+  - **Hipervisor:** Emula todas las funciones de un equipo real y su procesador en una maquina virtual.
+
+  - **Orquestador:** El orquestador es el responsable de administrar los recursos de la nube, tambien administra las respuestas a las solicitudes de los usuarios.
+
 ## Modelos de Servicio en la Nube
 
   - **Iaas:** Infraestructuras como Servicio, un proveedor proporciona a los usuarios acceso a recursos informáticos, tales como: servidores, almacenamiento  y redes.
@@ -44,10 +48,6 @@
 
 ## Microsoft Azure
 
-  - **Hipervisor:** Emula todas las funciones de un equipo real y su cpu en una maquina virtual.
-
-  - **Orquestador:** El orquestador es el responsable de administrar los recursos de la nube, tambien administra las respuestas a las solicitudes de los usuarios.
-
   - **Espacio aislado:** Es una suscripción temporal que permite crear recursos en Azure para la duración de un módulo de Learn.
 
   - **Recursos:** Los recursos son instancias de los servicios que se pueden crear, por ejemplo, maquinas virtuales.
@@ -56,16 +56,15 @@
 
   - **Suscripciones:** Agrupa las cuentas de usuario y los recursos que se han creado. En las suscripciones existen limites en los recursos que se pueden crear y usar.
 
-  - **Grupos de administración:** Ayudan a administrar el acceso, las directivas y el cumplimiento de varias suscripciones. Todas las suscripciones de un grupo de administración heredan automáticamente las condiciones que se aplican al grupo de administración. 
+  - **Grupos de administración:** Ayudan a administrar el acceso, las directivas y el cumplimiento de varias suscripciones. Todas las suscripciones de un grupo de administración heredan automáticamente las condiciones que se aplican al grupo de administración.
 
   - **Ciclo de vida:**
-  La organización de los recursos por ciclo de vida puede ser util en entornos que no sean de producción, en los que puede probar un experimento y despues descartarlo. 
+  La organización de los recursos por ciclo de vida puede ser util en entornos que no sean de producción, en los que puede probar un experimento y despues descartarlo.
 
-  - **Azure Resource Managaer:** Es un servicio de implementación y administración para Azure. Proporciona una capa de administración que le permite crear, actualizar y eliminar los recursos de la cuenta de Azure. 
-  
+  - **Azure Resource Managaer:** Es un servicio de implementación y administración para Azure. Proporciona una capa de administración que le permite crear, actualizar y eliminar los recursos de la cuenta de Azure.
+
   - **Zona de disponibilidad:** Son centros de datos separados fisicamente dentro de una region de Azure. Cada zona de disponibilidad tiene uno o varios centros de datos equipados con refrigeración, alimentación y redes independientes. Están conectadas con redes de fibra optica.
 
   - **Servicios de zona:** El recurso está anclado a una zona específica
 
   - **Servicios de redundancia de zona:** La plataforma se replica automáticamente entre zonas.
-  
