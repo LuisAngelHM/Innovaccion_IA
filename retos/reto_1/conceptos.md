@@ -42,7 +42,7 @@
 
   - **Gastos Operativos (OpEx):** Son dinero que se invierte en servicios o productos y se factura al instante. Este gasto se puede deducir el mismo año que se produce. No hay ningún costo previo, ya que se paga por un servicio o producto a medida que se usa.
 
-## Computo en la nube
+## Microsoft Azure
 
   - **Hipervisor:** Emula todas las funciones de un equipo real y su cpu en una maquina virtual.
 
